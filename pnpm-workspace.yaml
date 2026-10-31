@@ -1,1 +1,6 @@
 
+allowBuilds:
+  esbuild: true
+  netlify-cli: true
+  sharp: true
+
